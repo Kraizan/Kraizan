@@ -33,3 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kraizan&show_icons=true&locale=en" alt="kraizan" /></p>
 
+<p>Credits https://rahuldkjain.github.io/gh-profile-readme-generator/</>

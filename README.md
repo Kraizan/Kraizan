@@ -4,7 +4,12 @@
 ![](https://media.tenor.com/75kDlhGBYOEAAAAd/shinobu-moshi-moshi.gif)
 
 # 💫 About Me:
-🔭 I’m currently working on [Second Hand](https://github.com/Kraizan/Second-Hand)  <br>🌱 I’m currently learning **Blockchain development using Ethereum**  <br>💬 Ask me about **React, Express, Node, MongoDB**  <br>📫 How to reach me **vanshajbhatnagar24@gmail.com**    <br>📄 Know about my experiences [https://linkedin.com/in/vanshajbhatnagar](https://linkedin.com/in/vanshajbhatnagar)    <br>⚡ Fun fact **I like sauce on pizza.**  
+🔭 I’m currently working on [Second Hand](https://github.com/Kraizan/Second-Hand)  
+<br>🌱 I’m currently learning **Blockchain development using Ethereum**  
+<br>💬 Ask me about **React, Express, Node, MongoDB**  
+<br>📫 How to reach me **vanshajbhatnagar24@gmail.com**    
+<br>📄 Know about my experiences [https://linkedin.com/in/vanshajbhatnagar](https://linkedin.com/in/vanshajbhatnagar)    
+<br>⚡ Fun fact **I like sauce on pizza.**  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vanshajbhatnagar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshajbhatnagar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itz1shaj) 
